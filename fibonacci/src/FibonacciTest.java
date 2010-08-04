@@ -28,7 +28,7 @@ public class FibonacciTest {
 	
 	@Test
 	public void fibonacciOfTirtyIs832040() throws Exception {
-		System.out.println(Fibonacci.of(30));
+		assertEquals(832040, Fibonacci.of(30));
 	}
 
 }

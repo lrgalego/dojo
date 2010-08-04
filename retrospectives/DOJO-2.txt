@@ -1,0 +1,28 @@
+DOJO 2
+
+Problema implementado:
+Fibonacci
+
+Refactoring:
+Mine Field
+
+- Positivos:
+	O Pai do eliezer chamou o guincho
+	Teco é gente boa
+	Castanha de caju
+	Coca tava boa
+	Gostei do refactoring, discussões interessantes
+
+- Negativos:
+	Demorou a começar
+	CTBC demais! isso aqui num tem nada a ver com CTBC
+	Problema muito fácil
+	A perua velha do pai do eliezer
+	Pouca castanha de caju
+	O eclipse estava esquisito =(
+	Estamos amarrados só em uma linguagem
+
+- Ação:
+	Aprender a narrar o que está fazendo
+	Mudar a linguagem
+	Estudar ruby durante a semana
